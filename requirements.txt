@@ -1,0 +1,4 @@
+ultralytics>=8.2.0
+gradio>=5.0.0
+pillow
+opencv-python
